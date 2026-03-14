@@ -1,1 +1,14 @@
-
+{
+  "trunks": [
+    {
+      "name": "provider1",
+      "host": "sip.provider1.com",
+      "port": 5060
+    },
+    {
+      "name": "provider2",
+      "host": "sip.provider2.com",
+      "port": 5060
+    }
+  ]
+}
